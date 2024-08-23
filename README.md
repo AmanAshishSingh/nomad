@@ -1,14 +1,6 @@
 
 # Wanderlust -Inspired By Airbnb
-This is a Full-Stack Web Application 🚀
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/ShanedraSingh">
-  <img src="https://profile-counter.glitch.me/wanderlust/count.svg" />
-  </a>
-</p>
 
 ---
 
